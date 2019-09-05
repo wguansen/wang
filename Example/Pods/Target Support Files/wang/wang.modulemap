@@ -1,0 +1,6 @@
+framework module wang {
+  umbrella header "wang-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - wang (0.1.0)
+
+DEPENDENCIES:
+  - wang (from `../`)
+
+EXTERNAL SOURCES:
+  wang:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  wang: 1d8bd55077143d638bb12692bf1a6614da43ad95
+
+PODFILE CHECKSUM: b99a0e65404d8b1bd484883423e4c3df18f636e1
+
+COCOAPODS: 1.7.5
